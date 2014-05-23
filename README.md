@@ -71,6 +71,7 @@ Localization
 
 这里面可以使用 HTML 代码，但是注意 `"` 的使用，应该使用 `'` 或者 `'''` 来避免跟 JSON 格式冲突。
 
+更多的设置可以参考 [TimelineJS](https://github.com/NUKnightLab/TimelineJS) 在移交给 KnightLab 之前的说明文件，虽然现在那个 repo 已经被删除了，但是我之前 fork 的时候留了[一份](MANUAL.md)。
 
 
 建议
