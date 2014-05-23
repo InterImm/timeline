@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+CC BY-SA
+Timeline Framework：
+
+  	88888888888 d8b                        888 d8b                888888   d8888b
+  	    888     Y8P                        888 Y8P                   88b d88P  Y88b
+  	    888                                888                       888 Y88b
+  	    888     888 88888b d88b     d88b   888 888 88888b     d88b   888   Y888b
+  	    888     888 888  888  88b d8P  Y8b 888 888 888  88b d8P  Y8b 888      Y88b
+  	    888     888 888  888  888 88888888 888 888 888  888 88888888 888        888
+  	    888     888 888  888  888 Y8b      888 888 888  888 Y8b      88P Y88b  d88P
+  	    888     888 888  888  888   Y8888  888 888 888  888   Y8888  888   Y8888P
+  	                                                                d88P
+  	                                                              d88P
+  	                                                            888P
+  	 -->
+
+<head>
+    <title>星际移民时间线</title>
+    <meta charset="utf-8">
+    <meta name="description" content="星际移民时间线">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <!-- Style-->
+    <style>
+        html, body {
+           height:100%;
+           padding: 0px;
+           margin: 0px;
+          }
+    </style>
+    <link rel="stylesheet" href="assets/framewarp/framewarp.css" />
+    <link rel="stylesheet" href="css/themes/vertical.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <!-- HTML5 shim, for IE6-8 support of HTML elements-->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+    <script>
+        var TogetherJSConfig_siteName = "InterImmTimeline";
+        var TogetherJSConfig_toolName = "Chanel@InterTimeline";
+        var TogetherJSConfig_youtube = "True";
+    </script>
+    <script src="https://togetherjs.com/togetherjs-min.js"></script>
+
+</head>
+
+</html>
+
+<body>
+    <!-- BEGIN Timeline Embed -->
+    <div id="timeline-embed"></div>
+    <script type="text/javascript">
+        var timeline_config = {
+            width: "100%",
+            height: "96%",
+            source: 'data/InterImmTimelineJSONP.jsonp',
+            hash_bookmark: true,
+            lang: 'zh-cn',
+            start_zoom_adjust: '1'
+        }
+    </script>
+    <script type="text/javascript" src="js/storyjs-embed.js"></script>
+    <!-- END Timeline Embed-->
+
+
+
+    <div id="about">
+        <a href="about.html" class="buttonabout" id="b1">About</a>
+        <a href="datacol.html" class="buttonau" id="b2">Data Collector</a>
+        <a href="contact.html" class="buttonother" id="b3">Contact or Join</a>
+        <a href="comment.html" class="buttoncomment" id="b4">Comments</a>
+        <a onclick="TogetherJS(this); return false;" class="buttoncomment" id="b5">Collaborative</a>
+        <a href="https://github.com/InterImm/timeline" class="buttonother" target="_blank">Fork on Github</a>
+    </div>
+    <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+
+    <script src="assets/framewarp/framewarp.js"></script>
+    <script src="assets/js/script.js"></script>
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-50146153-2']);
+        _gaq.push(['_setDomainName', 'github.com']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+</body>
