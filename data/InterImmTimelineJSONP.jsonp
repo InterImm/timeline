@@ -51,19 +51,64 @@ storyjs_jsonp_data = {
                 }
             },
             {
+                "startDate":"2021",
+                "headline":"赤风计划",
+                "text":"<p>美国、俄罗斯、欧空局20国、加拿大、中国、日本、印度、以色列27个国家共同宣布，人类的首个载人登火计划启动，代号“赤风”。人类将在2027年登陆火星！如此大规模的航天国际合作史无前例，各国航天局的协调工作由联合国和平利用外层空间委员会（简称COPUOS）统一完成。</p>",
+                "asset":
+                {
+                    "media":"http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/14-2290-SpaceLaunchSystem-AfterLaunch-20140827.jpg/1280px-14-2290-SpaceLaunchSystem-AfterLaunch-20140827.jpg",
+                    "credit":"NASA",
+                    "caption":""
+                }
+            },
+            {
                 "startDate":"2027",
                 "headline":"人类首次登陆火星",
                 "text":"<p>人类的脚印首次镌刻在了这颗红色星球上，3名宇航员在<a href='https://github.com/InterImm/InterImmBook/blob/master/book/resources/landing_spot.png' target='_blank'>着陆点</a>附近（23.27°N 109.08°E，位于火星第九区、即阿蒙蒂斯区，地处乌托邦平原边缘）开展了为期300天的科学探测活动，采集了大量火星土壤、岩石样品，最终于2029年返回地球。人类登上火星的那一天（地球纪元2027年7月23日）被定为火星纪元元年1月1日</p>",
                 "asset":
                 {
-                    "media":"https://raw.githubusercontent.com/InterImm/InterImmBook/master/book/resources/landing_spot.png",
+                    "media":"https://raw.githubusercontent.com/InterImm/InterImmBook/master/resources/landing_spot.png",
                     "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"",
-                "headline":"",
+                "startDate":"2030",
+                "endDate":"2060",
+                "headline":"小行星开发热潮",
+                "text":'''<p>第一次载人登火之后的30年，只有少数几个国家再向火星发射过无人探测器，航天大国纷纷将发展的重点放在了“太空产业化”的方向上。由于航天领域的进入门槛较高，前期投资巨大，没有国家的扶持，初期建立起的公司很难有竞争力。因此，各国纷纷扶持本国的建立起的航天公司，希望能将外太空开发成为促进本国经济增长的热土。</p>''',
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2070",
+                "headline":"第一个火星前哨战",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2075",
+                "headline":"PNPT 并入 IIA",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2102",
+                "headline":"Unisat、ULA、OrbiTA 与 UPI 合并",
                 "text":"<p></p>",
                 "asset":
                 {
