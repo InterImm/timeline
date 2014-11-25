@@ -64,7 +64,7 @@ storyjs_jsonp_data = {
             {
                 "startDate":"2027",
                 "headline":"人类首次登陆火星",
-                "text":"<p>人类的脚印首次镌刻在了这颗红色星球上，3名宇航员在<a href='https://github.com/InterImm/InterImmBook/blob/master/book/resources/landing_spot.png' target='_blank'>着陆点</a>附近（23.27°N 109.08°E，位于火星第九区、即阿蒙蒂斯区，地处乌托邦平原边缘）开展了为期300天的科学探测活动，采集了大量火星土壤、岩石样品，最终于2029年返回地球。人类登上火星的那一天（地球纪元2027年7月23日）被定为火星纪元元年1月1日</p>",
+                "text":"<p>人类的脚印首次镌刻在了这颗红色星球上，3名宇航员在<a href='resources/landing_spot.png' target='_blank'>着陆点</a>附近（23.27°N 109.08°E，位于火星第九区、即阿蒙蒂斯区，地处乌托邦平原边缘）开展了为期300天的科学探测活动，采集了大量火星土壤、岩石样品，最终于2029年返回地球。人类登上火星的那一天（地球纪元2027年7月23日）被定为火星纪元元年1月1日</p>",
                 "asset":
                 {
                     "media":"https://raw.githubusercontent.com/InterImm/InterImmBook/master/resources/landing_spot.png",
