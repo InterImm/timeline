@@ -130,7 +130,7 @@ storyjs_jsonp_data = {
             },
             {
                 "startDate":"2080",
-                "headline":"轨道旅游局（OrbiTA）开始大规模投资火星",
+                "headline":"轨道旅游局开始大规模投资火星",
                 "text":"<p>2080 年，轨道旅游局（OrbiTA）也开始大规模投资火星殖民地的旅游开发，并开始优化火星的天地运输系统。</p>",
                 "asset":
                 {
@@ -141,7 +141,7 @@ storyjs_jsonp_data = {
             },
             {
                 "startDate":"2123",
-                "headline":"火星的南河城（Procyon City）、参宿城（Betelgeuse City）、天狼城（Sirius City）正式命名",
+                "headline":"火星的南河城、参宿城、天狼城正式命名",
                 "text":"<p>2123年2月17日，经过三地殖民者的全民公决，一、二、三号城以冬季大三角三颗星的名字命名，分别称为南河城（Procyon City）、参宿城（Betelgeuse City）、天狼城（Sirius City）。</p>",
                 "asset":
                 {
@@ -173,8 +173,8 @@ storyjs_jsonp_data = {
                 }
             },
             {
-                "startDate":"2065",
-                "headline":"行星地质大学（Planetary Geology University）成立",
+                "startDate":"2165",
+                "headline":"行星地质大学成立",
                 "text":"<p>2065 年，行星地质大学（Planetary Geology University）在地质研究所的基础上落成。</p>",
                 "asset":
                 {
