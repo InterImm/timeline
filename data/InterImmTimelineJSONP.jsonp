@@ -52,7 +52,7 @@ storyjs_jsonp_data = {
             },
             {
                 "startDate":"2021",
-                "headline":"赤风计划",
+                "headline":"“赤风”计划实施",
                 "text":"<p>美国、俄罗斯、欧空局20国、加拿大、中国、日本、印度、以色列27个国家共同宣布，人类的首个载人登火计划启动，代号“赤风”。人类将在2027年登陆火星！如此大规模的航天国际合作史无前例，各国航天局的协调工作由联合国和平利用外层空间委员会（简称COPUOS）统一完成。</p>",
                 "asset":
                 {
@@ -108,7 +108,7 @@ storyjs_jsonp_data = {
             },
             {
                 "startDate":"2075",
-                "headline":"PNPT 并入 IIA",
+                "headline":"推进技术发展组织并入星际移民局",
                 "text":"<p></p>",
                 "asset":
                 {
@@ -119,8 +119,8 @@ storyjs_jsonp_data = {
             },
             {
                 "startDate":"2102",
-                "headline":"四大商会合并为 UPI",
-                "text":"<p></p>",
+                "headline":"四大商会合并为联合行星",
+                "text":"<p>当时的四大商会——宇宙通信卫星组织（Unisat）、轨道旅游局（OrbiTA）、联合发射同盟（ULA）、联合行星（UPI）宣布合并，并保留“联合行星”的名称。</p>",
                 "asset":
                 {
                     "media":"",
@@ -142,7 +142,7 @@ storyjs_jsonp_data = {
             {
                 "startDate":"2123",
                 "headline":"伊希地三座城市正式命名",
-                "text":"<p>2123年2月17日，经过三地殖民者的全民公决，伊希地城市圈的一、二、三号城以冬季大三角三颗星的名字命名，分别称为南河城（Procyon City）、参宿城（Betelgeuse City）、天狼城（Sirius City）。</p>",
+                "text":"<p>2123 年 2月 17 日，经过三地殖民者的全民公决，伊希地城市圈的一、二、三号城以冬季大三角三颗星的名字命名，分别称为南河城（Procyon City）、参宿城（Betelgeuse City）、天狼城（Sirius City）。</p>",
                 "asset":
                 {
                     "media":"",
@@ -152,7 +152,7 @@ storyjs_jsonp_data = {
             },
             {
                 "startDate":"2145",
-                "headline":"火星奇点城落成",
+                "headline":"奇点城落成",
                 "text":"<p>2145 年，在六号城正式落成的同时，MREI 将其命名为奇点城（Singularity City），并向其他城市投送铺天盖地的商业广告。一些年事已高又小有积蓄的人被奇点安逸的生活条件吸引，在这里买下了 MREI 的不动产。</p>",
                 "asset":
                 {
@@ -162,8 +162,8 @@ storyjs_jsonp_data = {
                 }
             },
             {
-                "startDate":"2148",
-                "headline":"视界城建成",
+                "startDate":"2153",
+                "headline":"视界城落成",
                 "text":"<p>2148 年，MREI 又开始在奇点的东南——子午线的另一侧建造另一座城市——视界城（Horizon City）这里原本是子午线高原惟一的一座小型星港，能够将质量不大的载荷送入近火轨道，也能够接收来自太空的货物。</p>",
                 "asset":
                 {
@@ -175,7 +175,40 @@ storyjs_jsonp_data = {
             {
                 "startDate":"2165",
                 "headline":"行星地质大学成立",
-                "text":"<p>2065 年，行星地质大学（Planetary Geology University）在地质研究所的基础上落成。</p>",
+                "text":"<p>2165 年，行星地质大学（Planetary Geology University）在地质研究所的基础上落成。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2167",
+                "headline":"星坠城落成",
+                "text":"<p>2167 年，经过全民公决，这座以教育、科研为主的城市被命名为星坠城（Bolide City）。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2159",
+                "headline":"川陀城落成",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2158",
+                "headline":"端点城落成",
+                "text":"<p></p>",
                 "asset":
                 {
                     "media":"",
@@ -220,6 +253,18 @@ storyjs_jsonp_data = {
                 }
             },
             {
+                "startDate":"2155",
+                "endDate":"2168",
+                "headline":"希腊城市圈建设时期",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
                 "startDate":"2013",
                 "headline":" 嫦娥三号在月球表面着陆",
                 "text":"<p>并释放玉兔号月球车</p>",
@@ -244,14 +289,14 @@ storyjs_jsonp_data = {
             {
                 "startDate":"2002",
                 "headline":"SpaceX 公司成立",
-                "text":"<p></p>",
+                "text":"<p>由 Elon Musk 创立的私人航天公司，以猎鹰系列火箭起家，后因研制出成熟的可重复使用火箭技术，在国际发射市场上占据了一席之地。</p>",
                 "asset":
                 {
-                    "media":"http://interimm.org/InterImmBook/profession/companies.html#spacex",
+                    "media":"",
                     "credit":"",
                     "caption":""
                 }
-            }
+            },
             {
                 "startDate":"2041",
                 "headline":"SpaceX 公司拆分",
@@ -262,51 +307,304 @@ storyjs_jsonp_data = {
                     "credit":"",
                     "caption":""
                 }
-            }
+            },
             {
                 "startDate":"2006",
                 "headline":"联合发射同盟成立",
-                "text":"<p></p>",
+                "text":"<p>由波音公司和洛克希德马丁公司共同组建的合资企业。</p>",
                 "asset":
                 {
-                    "media":"http://interimm.org/InterImmBook/profession/companies.html#ula",
+                    "media":"",
                     "credit":"",
                     "caption":""
                 }
-            }
+            },
             {
                 "startDate":"1982",
                 "headline":"轨道科学公司成立",
-                "text":"<p></p>",
+                "text":"<p>以人造卫星的制造与发射业务起家，后来将业务重点放在了载人航天发射和空间站补给任务上。</p>",
                 "asset":
                 {
-                    "media":"http://interimm.org/InterImmBook/profession/companies.html#osc",
+                    "media":"",
                     "credit":"",
                     "caption":""
                 }
-            }
+            },
             {
                 "startDate":"2022",
                 "headline":"太空捷运公司成立",
-                "text":"<p></p>",
+                "text":"<p>公司成立之初以当时正火热的亚轨道旅游为主要业务，后来拓展到近地轨道发射。</p>",
                 "asset":
                 {
-                    "media":"http://interimm.org/InterImmBook/profession/companies.html#spaceRapid",
+                    "media":"",
                     "credit":"",
                     "caption":""
                 }
-            }
+            },
             {
                 "startDate":"1964",
                 "headline":"国际通信卫星组织成立",
-                "text":"<p></p>",
+                "text":"<p>国际通信卫星组织是全球性通信卫星机构。</p>",
                 "asset":
                 {
-                    "media":"http://interimm.org/InterImmBook/profession/companies.html#intelsat",
+                    "media":"",
                     "credit":"",
                     "caption":""
                 }
-            }
+            },
+            {
+                "startDate":"1979",
+                "headline":"国际海事卫星组织成立",
+                "text":"<p>除了卫星电话和数据服务，该组织还有免费的全球海上遇险和安全服务（GMDSS）。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1977",
+                "headline":"欧洲通信卫星组织成立",
+                "text":"<p>洲通信卫星组织是欧洲的通信卫星的维护机构。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1977",
+                "headline":"亚洲卫星公司成立",
+                "text":"<p>通信卫星的发射和地面设施的建设。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2004",
+                "headline":"维珍银河公司成立",
+                "text":"<p>时属维珍集团子公司，其开发的太空船系列亚轨道飞船在 20 世纪 20 年代的亚轨道旅游热潮中占据了大部分市场份额。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2025",
+                "headline":"宇宙探险公司成立",
+                "text":"<p>日本第一家亚轨道旅游公司。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2036",
+                "headline":"轨道旅游局成立",
+                "text":"<p>由宇宙探险公司与维珍银河公司合并而成。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013",
+                "headline":"深空工业公司成立",
+                "text":"<p>深空工业从事小行星开采，提供太空燃料等服务，后来业务扩展到更多的深空太阳系资源开发。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010",
+                "headline":"行星资源公司成立",
+                "text":"<p>行星资源公司作为小行星采矿起步的公司，在火星探测中发展为一家从太空补给到空间设施建设的全方位的空间资源和建筑服务公司。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2026",
+                "headline":"近地小行星矿业公司成立",
+                "text":"<p>从采矿重型机械业务起步，发展成为了一个综合性的小行星矿业公司。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2047",
+                "headline":"联合小行星成立",
+                "text":"<p>由行星资源公司（ Planetary Resourses ）、SpaceX 小行星公司（SpaceX Asteroids）、深空工业公司（ Deep Space Industry ）、近地小行星矿业公司（NEAs Mining）组合而成</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2060",
+                "headline":"联合小行星改名为联合行星",
+                "text":"<p>并将主要业务从近地小行星采矿拓展到太阳系资源开发。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010",
+                "headline":"太空制造公司成立",
+                "text":"<p>开发了第一个太空使用的 3D 打印机。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2019",
+                "headline":"星际通信公司成立",
+                "text":"<p>星际通信公司的前身是行星通信（Planetary Communications），被 SpaceX 收购之后，作为行星通信联合创始人的 Aidan Kirtman 离开行星通信创立了星际通信公司，致力于行星际通信网络的建设。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2021",
+                "headline":"鸿雁通信成立",
+                "text":"<p>一家行星际通信研究的公司</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2023",
+                "headline":"太阳信息架构成立",
+                "text":"<p>一家很少登上媒体的神秘的公司，却是行星际网络基础设施的建造者。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2033",
+                "headline":"宇宙通信卫星组织成立",
+                "text":"<p>由国际通信卫星组织（Intelsat）、国际海事卫星组织（Inmarsat）、欧洲通信卫星组织（Eutelsat）、亚洲卫星公司（AsiaSat）合并而成，旨在巩固其地球卫星通信市场并拓展新的太空通信业务。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2063",
+                "headline":"推进技术发展组织成立",
+                "text":"<p>原本是旨在研发更为先进的行星际运输推进技术而成立的研究机构，后来在火星前哨站建设过程中接受了一大批地火运输订单，研究机构发展壮大为商业化组织。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2032",
+                "headline":"轨道科学公司并入 ULA",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2034",
+                "headline":"太空捷运公司被 ULA 收购",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2046",
+                "headline":"SpaceX 旅游加入轨道旅游局",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012",
+                "headline":"好奇号到达火星",
+                "text":"<p>好奇号（Curiosity）是一辆美国宇航局火星科学实验室辖下的火星探测器，最要用于探索火星的盖尔撞击坑。，为美国宇航局火星科学实验室计划的一部份。</p>",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Curiosity_(rover)",
+                    "credit":"",
+                    "caption":"Curiosity on Wikipedia"
+                }
+            },
+            {
+                "startDate":"2004",
+                "headline":"机遇号到达火星",
+                "text":"<p>机遇号（Opportunity，MER-B）是一个于2004年进行火星探测任务的地表漫游车；它是NASA目前火星探测漫游车任务的两辆中的其中一辆。</p>",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Opportunity_(rover)",
+                    "credit":"",
+                    "caption":"Opportunity on Wikipedia"
+                }
+            },
+            {
+                "startDate":"2004",
+                "headline":"勇气号到达火星",
+                "text":"<p>勇气号火星探测器（Spirit, MER-A），是美国国家航空航天局火星探测漫游者计划的第一部火星漫游车。</p>",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/Spirit_(rover)",
+                    "credit":"",
+                    "caption":"Spirit on Wikipedia"
+                }
+            },
             {
                 "startDate":"",
                 "headline":"",
@@ -317,7 +615,31 @@ storyjs_jsonp_data = {
                     "credit":"",
                     "caption":""
                 }
-            }
+            },
+            {
+                "startDate":"",
+                "headline":"",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"",
+                "headline":"",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+
         ]
     }
 }
