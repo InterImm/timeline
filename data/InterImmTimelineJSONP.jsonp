@@ -242,6 +242,72 @@ storyjs_jsonp_data = {
                 }
             },
             {
+                "startDate":"2002",
+                "headline":"SpaceX 公司成立",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"http://interimm.org/InterImmBook/profession/companies.html#spacex",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+            {
+                "startDate":"2041",
+                "headline":"SpaceX 公司拆分",
+                "text":"<p>拆分为太空探索旅游公司和太空探索小行星公司</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+            {
+                "startDate":"2006",
+                "headline":"联合发射同盟成立",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"http://interimm.org/InterImmBook/profession/companies.html#ula",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+            {
+                "startDate":"1982",
+                "headline":"轨道科学公司成立",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"http://interimm.org/InterImmBook/profession/companies.html#osc",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+            {
+                "startDate":"2022",
+                "headline":"太空捷运公司成立",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"http://interimm.org/InterImmBook/profession/companies.html#spaceRapid",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+            {
+                "startDate":"1964",
+                "headline":"国际通信卫星组织成立",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"http://interimm.org/InterImmBook/profession/companies.html#intelsat",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+            {
                 "startDate":"",
                 "headline":"",
                 "text":"<p></p>",
