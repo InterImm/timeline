@@ -67,7 +67,7 @@ storyjs_jsonp_data = {
                 "text":"<p>人类的脚印首次镌刻在了这颗红色星球上，3名宇航员在<a href='resources/landing_spot.png' target='_blank'>着陆点</a>附近（23.27°N 109.08°E，位于火星第九区、即阿蒙蒂斯区，地处乌托邦平原边缘）开展了为期300天的科学探测活动，采集了大量火星土壤、岩石样品，最终于2029年返回地球。人类登上火星的那一天（地球纪元2027年7月23日）被定为火星纪元元年1月1日</p>",
                 "asset":
                 {
-                    "media":"https://raw.githubusercontent.com/InterImm/InterImmBook/master/resources/landing_spot.png",
+                    "media":"resources/landing_spot.png",
                     "credit":"",
                     "caption":""
                 }
@@ -77,6 +77,17 @@ storyjs_jsonp_data = {
                 "endDate":"2060",
                 "headline":"小行星开发热潮",
                 "text":"<p>第一次载人登火之后的30年，只有少数几个国家再向火星发射过无人探测器，航天大国纷纷将发展的重点放在了太空产业化的方向上。由于航天领域的进入门槛较高，前期投资巨大，没有国家的扶持，初期建立起的公司很难有竞争力。因此，各国纷纷扶持本国的建立起的航天公司，希望能将外太空开发成为促进本国经济增长的热土。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2062",
+                "headline":"星际移民局成立",
+                "text":"<p>2062 年 7 月 23 日，在登火 35 周年的纪念日这一天，联合国宣布人类历史上第一家正式从事星际移民的机构————IIA (星际移民局)成立了。</p>",
                 "asset":
                 {
                     "media":"",
@@ -118,9 +129,9 @@ storyjs_jsonp_data = {
                 }
             },
             {
-                "startDate":"",
-                "headline":"",
-                "text":"<p></p>",
+                "startDate":"2080",
+                "headline":"轨道旅游局（OrbiTA）开始大规模投资火星",
+                "text":"<p>2080 年，轨道旅游局（OrbiTA）也开始大规模投资火星殖民地的旅游开发，并开始优化火星的天地运输系统。</p>",
                 "asset":
                 {
                     "media":"",
@@ -129,9 +140,9 @@ storyjs_jsonp_data = {
                 }
             },
             {
-                "startDate":"",
-                "headline":"",
-                "text":"<p></p>",
+                "startDate":"2123",
+                "headline":"火星的南河城（Procyon City）、参宿城（Betelgeuse City）、天狼城（Sirius City）正式命名",
+                "text":"<p>2123年2月17日，经过三地殖民者的全民公决，一、二、三号城以冬季大三角三颗星的名字命名，分别称为南河城（Procyon City）、参宿城（Betelgeuse City）、天狼城（Sirius City）。</p>",
                 "asset":
                 {
                     "media":"",
@@ -140,9 +151,9 @@ storyjs_jsonp_data = {
                 }
             },
             {
-                "startDate":"",
-                "headline":"",
-                "text":"<p></p>",
+                "startDate":"2145",
+                "headline":"火星奇点城落成",
+                "text":"<p>2145 年，在六号城正式落成的同时，MREI 将其命名为奇点城（Singularity City），并向其他城市投送铺天盖地的商业广告。一些年事已高又小有积蓄的人被奇点安逸的生活条件吸引，在这里买下了 MREI 的不动产。</p>",
                 "asset":
                 {
                     "media":"",
@@ -151,9 +162,9 @@ storyjs_jsonp_data = {
                 }
             },
             {
-                "startDate":"",
-                "headline":"",
-                "text":"<p></p>",
+                "startDate":"2148",
+                "headline":"视界城建成",
+                "text":"<p>2148 年，MREI 又开始在奇点的东南——子午线的另一侧建造另一座城市——视界城（Horizon City）这里原本是子午线高原惟一的一座小型星港，能够将质量不大的载荷送入近火轨道，也能够接收来自太空的货物。</p>",
                 "asset":
                 {
                     "media":"",
@@ -162,9 +173,9 @@ storyjs_jsonp_data = {
                 }
             },
             {
-                "startDate":"",
-                "headline":"",
-                "text":"<p></p>",
+                "startDate":"2065",
+                "headline":"行星地质大学（Planetary Geology University）成立",
+                "text":"<p>2065 年，行星地质大学（Planetary Geology University）在地质研究所的基础上落成。</p>",
                 "asset":
                 {
                     "media":"",
