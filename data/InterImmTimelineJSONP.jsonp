@@ -220,7 +220,7 @@ storyjs_jsonp_data = {
                 "startDate":"2070",
                 "endDate":"2123",
                 "headline":"伊希地城市圈建设时期",
-                "text":"<p></p>",
+                "text":"<p>火星的伊希地城市圈的建设时期</p>",
                 "asset":
                 {
                     "media":"",
@@ -232,7 +232,7 @@ storyjs_jsonp_data = {
                 "startDate":"2100",
                 "endDate":"2160",
                 "headline":"亚马逊城市圈建设时期",
-                "text":"<p></p>",
+                "text":"<p>火星亚马逊城市圈建设时期</p>",
                 "asset":
                 {
                     "media":"",
@@ -244,7 +244,7 @@ storyjs_jsonp_data = {
                 "startDate":"2139",
                 "endDate":"2167",
                 "headline":"子午线城市圈建设时期",
-                "text":"<p></p>",
+                "text":"<p>火星子午线城市圈建设时期</p>",
                 "asset":
                 {
                     "media":"",
@@ -270,7 +270,7 @@ storyjs_jsonp_data = {
                 "text":"<p>并释放玉兔号月球车</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"http://zh.wikipedia.org/wiki/%E5%AB%A6%E5%A8%A5%E4%B8%89%E5%8F%B7",
                     "credit":"",
                     "caption":""
                 }
@@ -292,7 +292,7 @@ storyjs_jsonp_data = {
                 "text":"<p>由 Elon Musk 创立的私人航天公司，以猎鹰系列火箭起家，后因研制出成熟的可重复使用火箭技术，在国际发射市场上占据了一席之地。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"http://zh.wikipedia.org/wiki/%E5%A4%AA%E7%A9%BA%E6%8E%A2%E7%B4%A2%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8",
                     "credit":"",
                     "caption":""
                 }
@@ -325,7 +325,7 @@ storyjs_jsonp_data = {
                 "text":"<p>以人造卫星的制造与发射业务起家，后来将业务重点放在了载人航天发射和空间站补给任务上。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"http://zh.wikipedia.org/wiki/%E8%BB%8C%E9%81%93%E7%A7%91%E5%AD%B8%E5%85%AC%E5%8F%B8",
                     "credit":"",
                     "caption":""
                 }
@@ -435,7 +435,7 @@ storyjs_jsonp_data = {
                 "text":"<p>行星资源公司作为小行星采矿起步的公司，在火星探测中发展为一家从太空补给到空间设施建设的全方位的空间资源和建筑服务公司。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"http://zh.wikipedia.org/wiki/%E8%A1%8C%E6%98%9F%E8%B3%87%E6%BA%90%E5%85%AC%E5%8F%B8",
                     "credit":"",
                     "caption":""
                 }
