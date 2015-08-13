@@ -18,6 +18,17 @@ storyjs_jsonp_data = {
                 }
             },
             {
+                "startDate":"1970,4,28",
+                "headline":"火星元年",
+                "text":"<p>此为火星元年开始</p>",
+                "asset":
+                {
+                  "media":"",
+                  "credit":"",
+                  "caption":""
+                }
+            },
+            {
                 "startDate":"1971",
                 "headline":"火星二号发射",
                 "text":"<p>首个到达火星表面的探测器</p>",
